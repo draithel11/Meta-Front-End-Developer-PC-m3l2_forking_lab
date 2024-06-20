@@ -33,6 +33,8 @@ Version Control
 
   - [Danilo Leal Raul] Front End Development
 
+  - [Dan] Front-End Developer
+
 - ### **E**
 
   - [Ethan Zinnert](https://github.com/Zethan7) Frontend Development
